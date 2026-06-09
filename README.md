@@ -13,6 +13,7 @@ Both approaches were validated in real-world tests using a load cell to measure 
 ## Resources
 - [Paper (arXiv)](https://arxiv.org/pdf/2512.22588)
 - [Video Demonstration](https://www.youtube.com/watch?v=dAA6IPa1Te0)
+- [Max Beffert (Website)](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/the-chair/staff/max-beffert/)
 
 ## Citation
 If you use this work in your own research, please cite:
